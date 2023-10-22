@@ -1,6 +1,6 @@
 ---
 title: "Tech skills are not that important"
-date: 2023-10-12T09:47:44+03:00
+date: 2023-10-09T09:47:44+03:00
 description: "Switching from marketing to an analyst role, I learned that business acumen and communication are as crucial as technical skills in analytics"
 ---
 When I switched from marketing to an analyst job two years ago, I was convinced that the most important thing was to gain hard, technical skills. I felt stressed and anxious because it felt like I was lacking them.

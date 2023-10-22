@@ -1,6 +1,6 @@
 ---
 title: "How to remind if they forgot to do their work"
-date: 2023-10-14T09:47:44+03:00
+date: 2023-10-06T09:47:44+03:00
 description: "On gentle follow-ups. Nudging without nagging: friendly task reminders for smooth collaboration"
 ---
 Sometimes there are situations when a client or a colleague says, "Yes, fine, I will do this tomorrow", and you kind of make an agreement with them. But then a few days pass, and there is no news from them, and nothing is done. Work is not completed.
