@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="referrer" content="no-referrer-when-downgrade">
+  {% block rss %}
+  <link rel="alternate" type="application/rss+xml" title="RSS"
+    href="/atom.xml">
+  {% endblock %}
+  <link rel="icon" href="/img/favicon.png" type="image/png">
+  <link rel="stylesheet" href="/styles.css">
+
+  {% block head %}{% endblock %}
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      {%- if current_path == '/' -%}
+      <h1><a href="/">Volodymyr Vasylyna</a></h1>
+      {%- else -%}
+      <h3><a href="/" rel="home">Volodymyr Vasylyna</a></h3>
+      {%- endif -%}
+      <nav>
+        <a href="/about/" {% if current_path=='/about/' %}class="active" {% endif %}>About me</a>
+        <a href="/blog/" {% if current_path=='/blog/' %}class="active" {% endif %}>Blog</a>
+        <a href="/contact/" {% if current_path=='/contact/' %}class="active" {% endif
+          %}>Contact</a>
+      </nav>
+    </div>
+  </header>
+  <main>
+    <div class="container">
+    {% block content %} {% endblock %}
+    </div>
+  </main>
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-col mb">
+        <h3>Danny</h3>
+        <div><a href="/about/">About me</a></div>
+        <div><a href="/bookmarks/">My bookmarks</a></div>
+        <div><a href="/blog/">My blog</a></div>
+        <div><a href="/contact/">Contact me</a></div>
+      </div>
+    </div>
+    <div class="container">
+        <p>Find me on <a href="https://git.sr.ht/~dvko/" class="icon sourcehut" rel="me nofollow author">sourcehut</a>, 
+        <a href="https://github.com/dannyvankooten/" class="icon github" rel="me nofollow author">GitHub</a> and <a rel="me" href="https://toot.re/@dvk" class="icon mastodon">Mastodon</a>.
+      </p>
+      <p><a href="https://git.sr.ht/~dvko/dannyvankooten.com">Source code for this website</a>.</p>
+      <p>All information on this blog is hereby released into the public domain, with no rights reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>

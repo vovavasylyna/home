@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+
+{% block head %}
+<title>Danny van Kooten</title>
+<link rel="canonical" href="{{ section.permalink | safe}}" />
+<meta property="og:title" content="{{ section.title }}" />
+<meta property="og:url" content="{{ section.permalink | safe }}" />
+<meta property="og:type" content="website" />
+{% endblock %}
+
+{% block content %}
+  <article>
+    {{ section.content | safe }}
+  </article>
+
+  {% set blog_section = get_section(path="blog/_index.md") %}
+  <h3>Writings</h3>
+  <ul>
+      {% for post in blog_section.pages | slice(end=5) %}
+      <li>
+        <a href="{{ post.path | safe}}">{{ post.title }}</a><small> &mdash; {{ post.date | date(format="%b %-d, %Y") }}</small>
+      </li>
+      {% endfor %}
+  </ul>
+  <p>View <a href="/blog/">all posts on my blog</a>.</p>
+  
+{% endblock content %}

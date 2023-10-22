@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block head %}
+<title>{{ section.title }} | Danny van Kooten</title>
+<link rel="canonical" href="{{ section.permalink | safe}}" />
+<meta property="og:title" content="{{ section.title }}" />
+<meta property="og:url" content="{{ section.permalink | safe }}" />
+<meta property="og:type" content="website" />
+{% endblock %}
+
+{% block content %}
+  <h1>Blog</h1>
+  <p>Sometimes, I write.</p>
+
+  <ul>
+  {% for post in section.pages %}
+      <li>
+          <a href="{{ post.path | safe }}">{{ post.title }}</a><br />
+          <small>{{ post.date | date(format="%b %-d, %Y") }}</small>
+      </li>
+  {% endfor %}
+  </ul>
+
+  <p><a href="/atom.xml">Subscribe to new posts on my blog via RSS</a>.</p>  
+{% endblock content %}
