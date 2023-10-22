@@ -5,7 +5,7 @@ description: "A list of small remote cabins and cottages in the Carpathian mount
 ---
 I was looking for nice houses / cabins for two for a vacation in the Ukrainian Carpathians mountains. The main requirements were relative remoteness from people, pleasant appearance and a good view of the mountains. I'll share the list here down below.
 
-### 1 – Didova Khatchyna
+**1 – Didova Khatchyna**
 
 [Intsagram](https://www.instagram.com/didova_khatchyna/) – [Google Maps](https://goo.gl/maps/XDYcV36JrR4UzjyZ6)
 
@@ -17,7 +17,7 @@ Visited in 2022. Great place!
 
 ![Didova Khatchyna](/images/cabins/didova-khatchyna-3.jpg)
 
-### 2 – Gregit
+**2 – Gregit**
 
 [Intsagram](https://www.instagram.com/hatynky/) – [Google Maps](https://goo.gl/maps/fj75dY5K77cyh7vs7)
 
@@ -27,7 +27,7 @@ Visited in 2022. Great place!
 
 ![Gregit](/images/cabins/gregit-3.jpg)
 
-### 3 – karpateka
+**3 – karpateka**
 
 [Intsagram](https://www.instagram.com/karpateka/) – [Google Maps](https://goo.gl/maps/32hQ1Zg1aNiLRT559)
 
@@ -35,7 +35,7 @@ Visited in 2022. Great place!
 
 ![karpateka](/images/cabins/karpateka-2.jpg)
 
-### 4 – SpitzBergenHouse
+**4 – SpitzBergenHouse**
 
 [Intsagram](https://www.instagram.com/spitzbergenhouse/) – [Google Maps](https://goo.gl/maps/xjSMUySVAvxVMYD9A)
 
@@ -43,7 +43,7 @@ Visited in 2022. Great place!
 
 ![SpitzBergenHouse](/images/cabins/spitzbergenhouse-2.jpg)
 
-### 5 – Black Black House
+**5 – Black Black House**
 
 [Intsagram](https://www.instagram.com/black_black_house/) – [Google Maps](https://goo.gl/maps/efUKkoxEZfXv6f5r6)
 
@@ -53,7 +53,7 @@ Visited in 2022. Great place!
 
 ![Black Black House](/images/cabins/blackblackhouse-3.jpg)
 
-### 6 – Black Rock Mountain Retreat
+**6 – Black Rock Mountain Retreat**
 
 [Intsagram](https://www.instagram.com/blackrock.com.ua/) – [Google Maps](https://goo.gl/maps/RLt5Kc7L5am3DSNXA)
 
@@ -63,7 +63,7 @@ Visited in 2022. Great place!
 
 ![Black Rock Mountain Retreat](/images/cabins/blackrockmountainretreat-3.jpg)
 
-### 7 – TO YE HOUSE
+**7 – TO YE HOUSE**
 
 [Intsagram](https://www.instagram.com/toye.house/) – [Google Maps](https://goo.gl/maps/b5gkJPhWW9vc8UUZA)
 
@@ -71,7 +71,7 @@ Visited in 2022. Great place!
 
 ![TO YE HOUSE](/images/cabins/toyehouse-2.jpg)
 
-### 8 – Sirimiri
+**8 – Sirimiri**
 
 [Intsagram](https://www.instagram.com/conceptstay/) – [Google Maps](https://goo.gl/maps/8cjixRUCPQkqAdr79)
 
@@ -82,7 +82,7 @@ Visited in 2022. Great place!
 ![Sirimiri](/images/cabins/sirimiri-3.jpg)
 
 
-### 9 – MIKO
+**9 – MIKO**
 
 [Intsagram](https://www.instagram.com/blacknest42/) – [Google Maps](https://goo.gl/maps/juCxTcUkd4PorZJz7)
 
@@ -94,7 +94,7 @@ Visited in 2022. Recommended. Be prepared for a 15-minute steep climb to get to 
 
 ![MIKO](/images/cabins/miko-3.jpg)
 
-### 10 – Tykhyi Kutochok
+**10 – Tykhyi Kutochok**
 
 [Intsagram](https://www.instagram.com/tuhui_kytochok/ ) – [Google Maps](https://goo.gl/maps/G3qfUxDwtxGuveZVA)
 

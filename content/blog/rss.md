@@ -3,18 +3,17 @@ title: "RSS, and How To Subscribe To My Blog"
 date: 2023-09-29T09:47:44+03:00
 description: "A short guide on RSS: what is it, why and how to use it"
 ---
-*If you're looking for a direct RSS feed of my blog, here it is 
-https://vovavasylyna.com/atom.xml*
+*If you're looking for a direct RSS feed of my blog, here it is [https://vasylyna.net/atom.xml](https://vasylyna.net/atom.xml)*
 
-### Intro
+**Intro**
 
 Many people do not know what RSS is, why & how to use it. Unfortunately, RSS is a bit of a geeky technology, not quite used nowadays. But if you master it, you'll wonder how you could live without it before.
 
-### What is RSS? 
+**What is RSS?**
 
 RSS (Really Simple Syndication) is a subscription mechanism for blogs and other sites with regular updates. Instead of going to different sites yourself and seeing if there’s anything new there, it’s worth it to entrust this stupid job to a machine. Let it go to all the sites and carefully collect everything new in one place. This way new stuff comes to us, and we don’t have to chase them.
 
-### How to use RSS?
+**How to use RSS?**
 
 To use RSS, you need an RSS reader. This is a program that knows which sites you like and monitors them for updates. When sites are updated, the latest publications are automatically downloaded, and you get the latest issue of your own “magazine”, which contains everything new from your favorite websites.
 
@@ -24,14 +23,15 @@ This is what my reader looks like:
 
 Here are all the read posts from all the blogs I follow. I don’t have to go to their websites, open a hundred bookmarks in the browser as everything is in one place. There is no need to wait for the page to open - everything has already been downloaded. I'm not afraid of missing something important because everything is saved. I’ll read some right away, some over the weekend, some the next time I don't have access to the Internet. I also will decide to skip stuff so I’ll just tap it so that it stops looking like unread.
 
-### How to subscribe to someone via RSS? 
+**How to subscribe to someone via RSS?**
 
 Create an account, for example, on [Feedly](https://feedly.com/). In the menu on the left there is a Follow Websites button. Enter the address of a blog there. Use mine, for instance. That's it, now you are subscribed, new posts will arrive there. Subscribe to all your favorite blogs, and now you can read everything in one place. I myself have up to [20 sources in my reader](/blogroll).
 
 There are RSS readers which cannot pick up RSS simply from the site. They need to be given a direct path to the RSS stream. I have this one: 
 https://vovavasylyna.com/atom.xml 
 
-###  Why do I need RSS if we all have social media?
+**Why do I need RSS if we all have social media?**
+
 Surely, this is a matter of a personal preference. As for me I don’t understand how we can even compare one with the other in terms of convenience.
 
 - Firstly, in order not to miss anything, you have to carefully monitor social feeds, and this eats up a lot of time. I usually skim Instagram assuming that there is nothing particularly valuable there by default. Social media also put posts in the weird order. The RSS reader won't miss anything.
