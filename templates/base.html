@@ -22,10 +22,8 @@
       <h3><a href="/" rel="home">Volodymyr Vasylyna</a></h3>
       {%- endif -%}
       <nav>
-        <a href="/about/" {% if current_path=='/about/' %}class="active" {% endif %}>About me</a>
+        <a href="/" {% if current_path=='/' %}class="active" {% endif %}>About me</a>
         <a href="/blog/" {% if current_path=='/blog/' %}class="active" {% endif %}>Blog</a>
-        <a href="/contact/" {% if current_path=='/contact/' %}class="active" {% endif
-          %}>Contact</a>
       </nav>
     </div>
   </header>
@@ -37,19 +35,23 @@
   <footer class="site-footer">
     <div class="container">
       <div class="footer-col mb">
-        <h3>Danny</h3>
-        <div><a href="/about/">About me</a></div>
+        <h3>More about me</h3>
         <div><a href="/bookmarks/">My bookmarks</a></div>
         <div><a href="/blog/">My blog</a></div>
-        <div><a href="/contact/">Contact me</a></div>
+        <div><a href="/now/">Now</a></div>
       </div>
     </div>
+    <div class="footer-col mb">
+      <h3>Contact</h3>
+          <li><a href="https://t.me/vovavasylynablog">Telegram</a></li>
+          <li><a href="https://www.linkedin.com/in/volodymyrvasylyna/">LinkedIn</a></li>
+        <li><a href="https://www.instagram.com/vovavasylyna/">Instagram</a></li>
+        <li><a href="mailto:vasilinavova@gmail.com">Email</a></li>
+      </ul>
+  </div>
+</div>
     <div class="container">
-        <p>Find me on <a href="https://git.sr.ht/~dvko/" class="icon sourcehut" rel="me nofollow author">sourcehut</a>, 
-        <a href="https://github.com/dannyvankooten/" class="icon github" rel="me nofollow author">GitHub</a> and <a rel="me" href="https://toot.re/@dvk" class="icon mastodon">Mastodon</a>.
-      </p>
-      <p><a href="https://git.sr.ht/~dvko/dannyvankooten.com">Source code for this website</a>.</p>
-      <p>All information on this blog is hereby released into the public domain, with no rights reserved.</p>
+      <p><a href="https://github.com/vovavasylyna/home">Source code for this website</a>.</p>
     </div>
   </footer>
 </body>
