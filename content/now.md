@@ -10,7 +10,7 @@ title = "Now"
 **Health & Hobbies**
 
 - Challenging myself to read 50 books within a year. Tracking via my [Goodreads profile](https://www.goodreads.com/user/show/126435360-volodymyr-vasylyna)
-- Exercise twice a week including boxing / strength training, and running, both once a week. 
+- Boxing or strength training, and running, both once a week. 
 
 **Learning and Fun**
 
