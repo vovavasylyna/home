@@ -1,6 +1,7 @@
 ---
 title: "Social media created too many rules"
 date: 2023-10-23
+description: Noticing how traditional social media is tightening the screws, creating more and more regulations and boundaries
 ---
 Noticing how traditional social media is tightening the screws, creating more and more regulations and boundaries.
 
