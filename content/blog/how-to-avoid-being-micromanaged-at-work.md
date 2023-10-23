@@ -3,9 +3,6 @@ title: "How to avoid being micromanaged at work"
 date: 2023-09-02T09:47:44+03:00
 description: "Simple step-by-step guide to avoid difficult situations"
 ---
-Let's review a simple scenario. You work as an analyst like myself. You've been there for a few years, and now you're in a senior role. They assign you to a new manager who doesn't know you quite well, therefore you're not trusted enough. The boss always double-checks your analysis, sticks their nose everywhere, doesn't let you collaborate with your stakeholders directly. In short, they're just annoying pain in the ass. 
-
-This one and similar conflicts can be resolved in the following way:
 
 1. Approach your manager and start a conversation with care and attention to them. Do not try to convince or persuade them making them believe you're an expert and should be trusted and given some freedom. Don't do it.
 2. Find out where your boss sees your value and support. Ask them directly, say, “Hey, what can I do to be of maximum service to you?”

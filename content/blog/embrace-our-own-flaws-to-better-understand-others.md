@@ -3,7 +3,7 @@ title: "Embrace our own flaws to better understand others"
 date: 2022-06-27T09:47:44+03:00
 description: "Thoughts on a connection between how we accept others and an attitude to our own flaws"
 ---
-There are times when we are getting annoyed by someone’s weaknesses. A friend can be unable to quit unhealthy relationship, which is driving you crazy. Relatives can be toxic enough to make you cry. A girlfriend can lack energy and resilience to work under pressure and uncertainty. A classmate’s mind can be taken over by propaganda.
+There are times when we are getting annoyed by someone’s weaknesses. A friend can be unable to quit an unhealthy relationship, which is driving you crazy. Relatives can be toxic and make you cry. A girlfriend can lack energy and resilience to work under pressure and uncertainty. A classmate’s mind can be taken over by propaganda.
 
 These things might make us feel angry and powerless. When feeling that way, it’s super hard to avoid blaming these people and stay away from offering unsolicited advice. 99% chance the advice will not work. On the contrary, this would only drain our energy and make it worse for everybody.
 
