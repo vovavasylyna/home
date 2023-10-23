@@ -8,4 +8,4 @@ minify_html = false
 highlight_code = false
 
 [extra]
-# Put all your custom variables here
+author = "Volodymyr Vasylyna"
