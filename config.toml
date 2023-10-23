@@ -1,4 +1,4 @@
-base_url = "https://www.vasylyna.net"
+base_url = "https://vasylyna.net"
 compile_sass = false
 build_search_index = false
 generate_feed = true
