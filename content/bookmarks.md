@@ -1,6 +1,7 @@
 +++
 template = "page.html"
 title = "Bookmarks"
+description: "List of my favorite bookmarks"
 +++
 
 This page lists some of the personal and independent blogs I like.
