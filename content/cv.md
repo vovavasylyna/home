@@ -33,4 +33,4 @@ Core tools are Adobe Analytics and SAP Analytics Cloud.
 
 **More**
 
-My profile on LinkedIn: [https://www.linkedin.com/in/volodymyrvasylyna/](https://www.linkedin.com/in/volodymyrvasylyna/)
+My profile on [LinkedIn](https://www.linkedin.com/in/volodymyrvasylyna/)
