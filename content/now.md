@@ -1,7 +1,7 @@
 +++
 template = "page.html"
 title = "Now"
-description: "List of things and activities I'm focusing on now"
+description = "List of things and activities I am now focusing on"
 +++
 
 **Work**

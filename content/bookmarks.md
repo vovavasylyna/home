@@ -1,8 +1,8 @@
-+++
-template = "page.html"
-title = "Bookmarks"
+---
+title: "Bookmarks"
+template: "page.html"
 description: "List of my favorite bookmarks"
-+++
+---
 
 This page lists some of the personal and independent blogs I like.
 

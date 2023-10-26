@@ -1,7 +1,7 @@
 +++
 template = "page.html"
 title = "CV"
-description: "Volodymyr Vasylyna's CV or Resume"
+description = "Volodymyr Vasylyna's CV or Resume"
 +++
 **Experience**
 
