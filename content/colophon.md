@@ -12,7 +12,7 @@ For those interested I try to keep the details of the blog up-to-date with the i
 
 | Parameter | Source |
 |---|---|
-|Built with:|[Hugo](https://gohugo.io)|
+|Built with:|[Zola](https://www.getzola.org)|
 |Hosted on:|[GitHub Pages](https://pages.github.com)|
 |Deployed by:|[Cloudflare](https://www.cloudflare.com/en-gb/)|
 |Source code available:|[GitHub](https://github.com/vovavasylyna/home)|
