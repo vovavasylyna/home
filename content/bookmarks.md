@@ -12,7 +12,7 @@ This page lists some of the personal and independent blogs I like.
 - Theodore Keloglou [https://nutcroft.com](https://nutcroft.com)
 - Cal Newport [https://calnewport.com/blog](https://calnewport.com/blog)
 - Eric Murphy [https://ericmurphy.xyz](https://ericmurphy.xyz)
-- Hakan Bayındır [https://blog.bayindirh.io](https://blog.bayindirh.io)|
+- Hakan Bayındır [https://blog.bayindirh.io](https://blog.bayindirh.io)
 - Paul Robert Lloyd [https://paulrobertlloyd.com](https://paulrobertlloyd.com)
 - Danny van Kooten [https://www.dannyvankooten.com](https://www.dannyvankooten.com)
 - Paco Coursey [https://paco.me](https://paco.me)
